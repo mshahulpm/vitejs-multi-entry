@@ -7,7 +7,7 @@ import {
     Link
 } from "react-router-dom";
 
-const baseUrl = '/resources/app1.html'
+const baseUrl = '/app1'
 
 function App1() {
 
